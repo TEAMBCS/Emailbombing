@@ -5,4 +5,4 @@
 
 # Test On ⬇️
 * Termux
-# This Tool only education purpose Try only Prank
+# This Tool only educational purpose Try only Prank
